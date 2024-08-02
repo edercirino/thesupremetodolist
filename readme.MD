@@ -1,6 +1,6 @@
-# QR CODE GENERATOR
+# The Supreme To-Do List
 
-## The Supreme To-Do List
+## A to-do list to use daily
 
 <p align="center">
     <a href="#author"> 🔎	About the Author</a>
