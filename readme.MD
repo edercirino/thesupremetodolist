@@ -22,8 +22,10 @@ Project status: ✅Done
 
 ### 📝 Features
 
-- [x] Input to enter text
-- [x] Button "Generate QR Code"
+- [x] Input to enter task
+- [x] Button "Add Task"
+- [x] Check each task as you are completing
+- [x] Deleting if you want
 
 ### 🧐 Demonstration
 
